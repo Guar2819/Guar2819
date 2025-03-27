@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ... Working with peers
 - 📫 How to reach me ... jguar312@evit.edu
 - 😄 Pronouns: ... He/Him/His
-- ⚡ Fun fact: ... I like to play outside
+- ⚡ Fun fact: ... I like to meet new people that like to learn Software and App Design
 
 <!---
 Guar2819/Guar2819 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
